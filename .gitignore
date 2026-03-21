@@ -39,4 +39,6 @@ google-services.json
 # Node dependencies
 node_modules/
 npm-debug.log
+
+# Obsidian vault files (To edit .md files)
 /.obsidian/
