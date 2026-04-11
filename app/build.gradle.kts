@@ -40,6 +40,7 @@ android {
 }
 
 dependencies {
+    implementation(project(":feature:books_legacy_views"))
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
